@@ -9,3 +9,4 @@
 [linkedin - @FitsumAbyu](https://www.linkedin.com/in/fetsum-abyu-812414218).
 - 😄 funfact: i play football for over 3 hours a week
 -->
+<img src ="https://github-readme-stats.vercel.app/api?username=eyosiasbitsu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
