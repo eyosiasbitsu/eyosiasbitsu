@@ -2,7 +2,6 @@
 
 
 - 🔭 My interests lie in the fields of competitive programming, web development, and cybersecurity.
-- 🌱 Currently, I attend Addis Ababa University.
 - 👯 I want to collaborate on web development projects with other people.
 - 🤔 I'm looking for internship possibilities.
 - 📫 How to reach me: [twitter - @EyosiasBitsu](https://twitter.com/EyosiasBitsu) , 
