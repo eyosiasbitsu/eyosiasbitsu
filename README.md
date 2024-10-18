@@ -28,9 +28,6 @@
 - LinkedIn: [Fetsum Abyu](https://www.linkedin.com/in/fetsum-abyu/)
 - Website: [fetsumabyu.space](https://fetsumabyu.space)
 
-## 😄 Pronouns:
-- He/Him
-
 ## ⚡ Fun fact:
 - I’ve solved over 700 problems on LeetCode and am passionate about competitive programming.
 
