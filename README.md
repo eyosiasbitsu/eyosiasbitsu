@@ -13,7 +13,7 @@
 ## 💻 My Experience:
 - **Bazar**: [bazar.a2sv.org](https://bazar.a2sv.org) — AI-powered platform simplifying the process of buying and selling cars and houses.
 - **Atrons**: [atrons.app](https://atrons.app) — Educational platform focused on student experience improvement.
-- **Other Projects**: Extensive experience in Node.js, React, MongoDB, and AI integrations.
+- **Other Projects**: Extensive experience in Node.js, React, Nest, Next, Flutter, PostgressSQL MongoDB, and AI integrations.
 
 ## 🌍 Cloud Skills:
 - GCP, AWS, Azure for deploying scalable applications.
